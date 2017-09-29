@@ -1,0 +1,286 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "Space"
+            },
+			{
+                "name": "Patterns"
+            },
+			{
+                "name": "Landscape"
+            },
+			{
+                "name": "People"
+            },
+			{
+                "name": "Road"
+            },
+            {
+                "name": "City"
+            }
+        ],
+
+    "Wallpapers":
+        [
+		   {
+		"author": "Another Wallpaper",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/advice.png",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/advice.png",
+		"name": "Read me!",
+                "category": ""
+	     },
+            {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper001.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper001.jpg",
+		"name": "Wallpaper 001",
+                "category": "City"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper002.jpeg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper002.jpeg",
+		"name": "Wallpaper 002",
+                "category": "Landscape"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper003.jpeg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper003.jpeg",
+		"name": "Wallpaper 003",
+                "category": "Landscape"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper004.jpeg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper004.jpeg",
+		"name": "Wallpaper 004",
+                "category": "Landscape,Road"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper005.jpeg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper005.jpeg",
+		"name": "Wallpaper 005",
+                "category": "Landscape"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper006.jpeg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper006.jpeg",
+		"name": "Wallpaper 006",
+                "category": "Landscape"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper007.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper007.jpg",
+		"name": "Wallpaper 007",
+                "category": "Landscape"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper008.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper008.jpg",
+		"name": "Wallpaper 008",
+                "category": "Landscape"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper009.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper009.jpg",
+		"name": "Wallpaper 009",
+                "category": "Landscape"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper010.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper010.jpg",
+		"name": "Wallpaper 010",
+                "category": "Patterns"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper011.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper011.jpg",
+		"name": "Wallpaper 011",
+                "category": "Space"
+	     },
+		    {
+		"author": "ESO/J. Emerson/VISTA. (www.eso.org)",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper012.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper012.jpg",
+		"name": "Wallpaper 012",
+                "category": "Space"
+	     },
+		    {
+		"author": "ESO/Y. Beletsky (www.eso.org)",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper013.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper013.jpg",
+		"name": "Wallpaper 013",
+                "category": "Space"
+	     },
+		    {
+		"author": "ESO (www.eso.org)",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper014.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper014.jpg",
+		"name": "Wallpaper 014",
+                "category": "Space"
+	     },
+		    {
+		"author": "ESO (www.eso.org)",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper015.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper015.jpg",
+		"name": "Wallpaper 015",
+                "category": "Space"
+	     },
+		    {
+		"author": "Ian Brown (CC BY 2.0)",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper016.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper016.jpg",
+		"name": "Wallpaper 016",
+                "category": "Patterns"
+	     },
+		    {
+		"author": "Christian Lau (CC BY 2.0)",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper017.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper017.jpg",
+		"name": "Wallpaper 017",
+                "category": "Patterns"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper018.jpeg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper018.jpeg",
+		"name": "Wallpaper 018",
+                "category": "Landscape"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper019.jpeg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper019.jpeg",
+		"name": "Wallpaper 019",
+                "category": "Landscape"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper020.jpeg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper020.jpeg",
+		"name": "Wallpaper 020",
+                "category": "Landscape"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper021.jpeg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper021.jpeg",
+		"name": "Wallpaper 021",
+                "category": "Landscape,People"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper022.jpeg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper022.jpeg",
+		"name": "Wallpaper 022",
+                "category": "Landscape"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper023.jpeg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper023.jpeg",
+		"name": "Wallpaper 023",
+                "category": "Road"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper024.jpeg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper024.jpeg",
+		"name": "Wallpaper 024",
+                "category": "Landscape"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper025.jpeg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper018.jpeg",
+		"name": "Wallpaper 025",
+                "category": "Landscape,Road"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper026.jpeg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper026.jpeg",
+		"name": "Wallpaper 026",
+                "category": "Landscape,Road"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper027.jpeg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper027.jpeg",
+		"name": "Wallpaper 027",
+                "category": "Landscape"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper028.jpeg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper028.jpeg",
+		"name": "Wallpaper 028",
+                "category": "City"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper029.jpeg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper029.jpeg",
+		"name": "Wallpaper 029",
+                "category": "City,People"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper030.jpeg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper030.jpeg",
+		"name": "Wallpaper 030",
+                "category": "City,Patterns"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper031.jpeg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper031.jpeg",
+		"name": "Wallpaper 031",
+                "category": "City"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper032.jpeg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper032.jpeg",
+		"name": "Wallpaper 032",
+                "category": "City"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper033.jpeg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper033.jpeg",
+		"name": "Wallpaper 033",
+                "category": "Road"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper034.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper034.jpg",
+		"name": "Wallpaper 034",
+                "category": "City"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper017.jpeg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper017.jpeg",
+		"name": "Wallpaper 017",
+                "category": "City,Road,People"
+	     },
+		    {
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper016.jpeg",
+		"thumbUrl": "https://raw.githubusercontent.com/reantech/anotherwallpaper/master/Wallpaper016.jpeg",
+		"name": "Wallpaper 016",
+                "category": "Patterns"
+	     }
+        ]
+}
